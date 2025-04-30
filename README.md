@@ -183,7 +183,7 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
     <tr>
         <td><strong>Week 10</strong></td>
         <td>30 Apr <br />1 May</td>
-        <td>Multimodality <br /><strong>No class</strong> (Work on your project)</td>
+        <td>Multimodality [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%2010">slides</a>]<br /><strong>No class</strong> (Work on your project)</td>
         <td>Suggested reading: <ul>
             <li><a href="https://arxiv.org/pdf/2405.17247">An Introduction to Vision-Language Modeling</a></li>
             <li><a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/a03037317560b8c5f2fb4b6466d4c439-Abstract-Conference.html">What matters when building vision-language models?</a></li>
