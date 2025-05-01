@@ -141,7 +141,7 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
         <tr>
         <td><strong>Week 8</strong></td>
         <td>9 Apr <br />10 Apr</td>
-        <td><strong>Midterm</strong> <br/> Project Description</td>
+        <td><strong>Midterm</strong> <br/> Project Description [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%208">slides</a>, <a href="https://mediaspace.epfl.ch/media/%5B2025%5D+Project+description/0_9ag3yup3/31346">video</a>]</td>
         <td></td>
         <td>Antoine Bosselut</td>
     </tr>
@@ -155,7 +155,7 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
         <tr>
         <td><strong>Week 9</strong></td>
         <td>16 Apr May <br />17 Apr</td>
-        <td>Retrieval-Augmented LLMs &#124; Agents <br /><strong>No class</strong> (Work on your project)</td>
+        <td>Tokenization + Retrieval-Augmented LLMs &#124; Agents [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%209">slides</a>, <a href="https://mediaspace.epfl.ch/media/%5B2025%5D+22-24A+Tokenization+%2B+Question+Answering+%2B+Reading+comprehension/0_1tb10eik/31346">video</a>]<br /><strong>No class</strong> (Work on your project)</td>
         <td>Suggested reading: <ul><li><a href="https://arxiv.org/abs/1606.05250">Squad: 100,000+ questions for machine comprehension of text</a></li><li><a href="https://aclanthology.org/Q19-1026/">Natural questions: a benchmark for question answering research</a></li><li><a href="https://arxiv.org/abs/2004.04906">Dense passage retrieval for open-domain question answering</a></li><li><a href="https://proceedings.mlr.press/v119/guu20a.html">Retrieval augmented language model pre-training</a></li><li><a href="https://arxiv.org/abs/2005.11401">Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks</a></li><li><a href="https://arxiv.org/abs/2302.04761">Toolformer: Language models can teach themselves to use tools</a></li><li><a href="https://arxiv.org/abs/2210.03629">React: Synergizing reasoning and acting in language models</a></li><li><a href="https://arxiv.org/abs/2112.04426">Improving language models by retrieving from trillions of tokens</a></li><li><a href="https://arxiv.org/abs/2302.07842">Augmented language models: a survey</a></li></ul></td>
         <td>Antoine Bosselut</td>
     </tr>
@@ -183,7 +183,7 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
     <tr>
         <td><strong>Week 10</strong></td>
         <td>30 Apr <br />1 May</td>
-        <td>Multimodality <br /><strong>No class</strong> (Work on your project)</td>
+        <td>Multimodality [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%2010">slides</a>]<br /><strong>No class</strong> (Work on your project)</td>
         <td>Suggested reading: <ul>
             <li><a href="https://arxiv.org/pdf/2405.17247">An Introduction to Vision-Language Modeling</a></li>
             <li><a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/a03037317560b8c5f2fb4b6466d4c439-Abstract-Conference.html">What matters when building vision-language models?</a></li>
@@ -315,17 +315,24 @@ The project will be divided into the project proposal (1%), 2 milestones (19%) a
 More details on the content of the project and the deliverables of each milestone will be released at a later date.
 <!-- Registration details can be found in the announcement [here][1p]. -->
 
+#### Proposal
+- Release Date: 16 Apr 2025
+- **Due Date: 4 May 2025**
+
 #### Milestone 1:
-- Due: 4 May 2025
+- Release Date: 28 Apr 2025
+- **Due Date: 11 May 2025**
 
 #### Milestone 2:
 <!-- - Milestone 2 parameters can be found in the [project description][2p]. -->
-- Due: 18 May 2025
+- Release Date: 12 May 2025
+- **Due Date: 25 May 2025**
 
 #### Final Deliverable:
-- The final report, code, and date will be due on June 8th. Students are welcome to turn in their materials ahead of time, as soon as the semester ends.
+_The final report, code, and date will be due on June 8th. Students are welcome to turn in their materials ahead of time, as soon as the semester ends._
 <!-- - More details can be found in the [project description][2p]. -->
-- Due: 8 June 2025
+- Release Date: 25 May 2025
+- **Due Date: 08 Jun 2025**
 
 
 <a name="contact"></a>
